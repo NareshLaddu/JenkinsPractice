@@ -32,7 +32,7 @@ public class ArrayListDemo {
 			 System.out.println(l2.get(i));
 		 }
 		 
-//		 l1.remove(5);
+		 
 //		 l1.remove(4);
 		//l2.removeAll(l2);
 		String [] arr = new String[l1.size()];
