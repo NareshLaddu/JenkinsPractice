@@ -12,7 +12,7 @@ public class ArrayListDemo {
 		 l1.add("Dakshit");
 		 l1.add("Charishma");
 		 l1.add("Kumar");
-		 l1.add("Varun");
+		 
 		 l1.add("Pratibha");
 		 l2.addAll(l1);
 		 
