@@ -21,7 +21,7 @@ public class ArrayListDemo {
 		{
 		 System.out.println(itr.next());
 		}
-		 System.out.println("*******************************************************");
+		 System.out.println("****************************************************");
 		 if(l2.contains("Kumar"))
 		 {
 		 l2.set(4, "Raju");	
